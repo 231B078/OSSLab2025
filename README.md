@@ -2,4 +2,4 @@
 Name: Avinash Sharma
 Roll Number: 231b078
 Email: 231b078@juetguna.in
-<Solution code to part F>
+<a=2 b=3 print("The sum of two numbers is ",a+b)>
